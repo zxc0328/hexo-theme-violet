@@ -1,2 +1,2 @@
-# hero-theme-violet
+# hexo-theme-violet
 Theme for hexo
